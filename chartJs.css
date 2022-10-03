@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+canvas#myChart, canvas#myChart2  {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
